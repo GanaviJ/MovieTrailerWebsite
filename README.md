@@ -15,5 +15,5 @@ cd MovieTrailerWebsite
 python entertainment_center.py
 ```
 
-## Screenshots
+## Screenshot
 <img src="https://github.com/GanaviJ/MovieTrailerWebsite/blob/master/Screenshots/screenshot.PNG" alt="Website image">
