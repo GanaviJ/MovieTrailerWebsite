@@ -6,7 +6,7 @@ A static website showing posters of the movies and plays the youtube trailers on
 
 To get started with the boilerplate, simply make sure you have [Git (Download link)](https://git-scm.com/downloads)  installed in your system.
 
-Then open git bash in the folder where you want to create your new app and run these commands one by one:
+Then open git bash in the folder where you want to create your new folder and run these commands one by one:
 
 
 ```sh
