@@ -15,4 +15,4 @@ cd movie_trailer_website
 python entertainment.py
 ```
 
-### Screenshots
+## Screenshots
