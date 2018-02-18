@@ -11,8 +11,8 @@ Then open git bash in the folder where you want to create your new app and run t
 
 ```sh
 git clone 
-cd movie_trailer_website
-python entertainment.py
+cd MovieTrailerWebsite
+python entertainment_center.py
 ```
 
 ## Screenshots
